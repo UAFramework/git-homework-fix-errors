@@ -4,32 +4,31 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
-
+Describing website fonts, styles, colors, etc.
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
@@ -44,37 +43,35 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
-
+When people want to show off code to each other they can put it on Github Git is a system that lets you manage and keep track of your code GitHub Helps you in creation of a collective code
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You can change it without influence to original file or code
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
-
+You copy it from GitHub to your local machine
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+Request that lets you tell the other users of the project about the changes you pushed in a branch
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see all the commits you've done during the project
 
 ## Question 13
 
@@ -92,13 +89,13 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+It adds information about your changes in branch to Git History log
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VSCode
 
 ## Question 17
 
@@ -110,4 +107,4 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The GitHub community, either visit such sites as Stack Overflow
