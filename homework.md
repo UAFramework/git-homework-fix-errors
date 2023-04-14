@@ -74,7 +74,7 @@ Propose changes to a project's codebase
 
 What is the Git History log?
 
-It lets you see into the future
+Its a record of all changes and commits made to a repository over time
 
 ## Question 13
 
