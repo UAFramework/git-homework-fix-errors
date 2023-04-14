@@ -68,7 +68,7 @@ Repository will be cloned to the computer
 
 What is a Pull Request?
 
-When you send a file over the internet
+Propose changes to a project's codebase
 
 ## Question 12
 
