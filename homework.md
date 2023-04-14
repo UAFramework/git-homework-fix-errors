@@ -4,13 +4,13 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
@@ -22,30 +22,29 @@ What is the  2 * 3 * 6 * 1 * 10 * 34?
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+used to style and layout web pages
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+#h1 
 
-}
+
 ```
 
 ## Question 7
 
 What is JavaScript?
 
-A programming language used on the internet
-
+is a scripting language for creating dynamic web page content
 ## Question 8
 
 What three problem does Git & Github solve?
@@ -56,58 +55,58 @@ When people want to show off code to each other they can put it on Github
 
 What happens when you `fork` a repository?
 
-You delete it
+You copy it
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+It send it to Gid Bash
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+you tell others about changes you've pushed to a branch in a repository on GitHub
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+is used to view the commit history and display the necessary information of the git repository
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+you send the committed changes in your local repository to the remote repository on GitHub
 
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
+A place where helps developers store, manage, track and control changes 
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+you save the changes as a single logical set in your local repository
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+explains what change you made to your project.
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Status, log, history!
