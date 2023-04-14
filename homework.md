@@ -62,7 +62,7 @@ Creating a copy of the original repository in your own GitHub account
 
 What happens when you clone a repostory?
 
-It send it to a friend
+Repository will be cloned to the computer
 
 ## Question 11
 
