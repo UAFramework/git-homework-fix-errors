@@ -56,7 +56,7 @@ When people want to show off code to each other they can put it on Github
 
 What happens when you `fork` a repository?
 
-You delete it
+Creating a copy of the original repository in your own GitHub account
 
 ## Question 10 
 
