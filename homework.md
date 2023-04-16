@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+6120
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+How the site will look
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -44,43 +44,43 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is the most widely used client-side programming language that lets you supercharge your HTML with interactivity, animation and dynamic visual effect for better User Interface 
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+Open-source solutions like GitHub enable potential developers to contribute and share their knowledge to benefit the global community
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+A fork is a new repository that shares code and visibility settings with the original repository. 
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+It send it to my local computer
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+Show commit logs
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+I can to unload my commits to my branch on repository to Github
 
 ## Question 14
 
@@ -98,7 +98,7 @@ Send you code to Github
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+git bush
 
 ## Question 17
 
